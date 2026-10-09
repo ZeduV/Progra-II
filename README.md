@@ -24,3 +24,7 @@ Música: Toco la guitarra eléctrica y la batería, con un interés constante en
 Deporte: Juego fútbol con regularidad en canchas locales para mantenerme activo.
 
 Tecnología & IA: Me mantengo al día con eventos de tecnología, blockchain y la adopción de herramientas avanzadas de inteligencia artificial para potenciar mis flujos de desarrollo.
+
+## Repositorio
+
+[https://github.com/ZeduV/Progra-II](https://github.com/ZeduV/Progra-II)

@@ -1,1 +1,3 @@
-asldkjaslkdj contenido roto a propósito !!! todo mal
+Este archivo existe para practicar la recuperación de un cambio con Git.
+
+Contenido original e intacto: todo está en orden.
